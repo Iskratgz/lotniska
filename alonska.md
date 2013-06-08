@@ -5,8 +5,7 @@
 ## Dane
 
 Plik airports.csv pobrałam ze strony http://www.ourairports.com/data.
-
-Oczyściłam je za pomocą Google Refine do pliku json.
+Oczyściłam je za pomocą Google Refine i zapisałam do pliku json.
 
 ## Przykładowe dane
 
