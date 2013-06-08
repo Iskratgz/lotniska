@@ -5,6 +5,7 @@
 ## Dane
 
 Plik airports.csv pobrałam ze strony http://www.ourairports.com/data.
+
 Oczyściłam je za pomocą Google Refine i zapisałam do pliku json.
 
 ## Przykładowe dane
@@ -54,7 +55,7 @@ Oczyściłam je za pomocą Google Refine i zapisałam do pliku json.
 
 ## Plik z oczyszczonymi danymi
 
-[airports.json](https://github.com/Iskratgz/lotniska/edit/master/airports.json)
+[airports.json](https://github.com/Iskratgz/lotniska/blob/master/airports.json)
 
 ## Agregacja
 
