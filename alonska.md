@@ -60,8 +60,12 @@ Oczyściłam je za pomocą Google Refine i zapisałam do pliku json.
 ## Agregacja
 
 Do zrobienia:
+
 map-reduce
+typ, kontynent, kraj, region
+
 agregacja
+
 zdjęcie jpeg z wykresu
 
 folder images i na stronie link do pliku
