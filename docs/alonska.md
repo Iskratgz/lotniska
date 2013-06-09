@@ -70,7 +70,7 @@ Wynik
 
 Wykres
 
-[kontynenty]()
+![kontynenty](https://raw.github.com/Iskratgz/lotniska/master/images/alonska/kontynenty.png)
 
 ### Liczba lotnisk w regionach w Polsce
 
@@ -110,5 +110,5 @@ Wynik:
 
 Wykres
 
-[regiony]()
+![regiony](https://raw.github.com/Iskratgz/lotniska/master/images/alonska/regiony.png)
 
